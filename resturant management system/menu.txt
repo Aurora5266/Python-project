@@ -1,0 +1,46 @@
+Appetizers:
+Garlic Bread: 4.99
+Bruschetta: 6.99
+Mozzarella Sticks: 7.99
+Chicken Wings: 8.99
+Truffle Fries: 9.99
+Seared Scallops: 12.99
+
+Soups and Salads:
+French Onion Soup: 8.99
+Tom Yum Soup: 9.99
+Caesar Salad: 10.99
+Malaysian Rojak: 11.99
+
+Main Course:
+Pani Puri: 4.88
+Pani Puri: 7.99
+Margherita Pizza: 12.99
+Grilled Chicken Alfredo: 14.99
+Cheeseburger with Fries: 13.99
+Vegetable Stir Fry: 11.99
+Wagyu Ribeye Steak: 35.99
+Lobster Thermidor: 42.99
+Nasi Lemak with Rendang: 16.99
+
+Seafood Specialities:
+Chili Crab: 29.99
+Grilled Salmon: 24.99
+Butter Prawns: 21.99
+Oyster Platter: 34.99
+
+Desserts:
+Chocolate Lava Cake: 8.99
+Cheesecake: 7.99
+Ice Cream Sundae: 6.99
+Pandan Creme Brulee: 9.99
+Mango Sticky Rice: 10.99
+
+Beverages:
+Soda: 2.99
+Lemonade: 3.99
+Coffee: 3.99
+Tea: 3.49
+Fresh Coconut Water: 5.99
+Mocktail Selection: 8.99
+Imported Wine (Glass): 12.99
